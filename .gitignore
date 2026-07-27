@@ -1,0 +1,5 @@
+# Compiled binaries
+Q_*
+!Q_*.cpp
+a.out
+*.o
